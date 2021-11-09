@@ -19,7 +19,7 @@ export const LogoImg = styled.img`
     width: 200px;
 
     @media screen and (max-width: 768px) {
-        width: 180px;
+        width: 150px;
     }
 `;
 
